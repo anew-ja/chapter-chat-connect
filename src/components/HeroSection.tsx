@@ -10,7 +10,7 @@ const HeroSection = () => {
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold mb-6 animate-fade-in">
-          Welcome to PageTurners Book Club
+          Welcome to Literary Society
         </h1>
         
         <p className="text-xl md:text-2xl max-w-3xl mb-8 animate-fade-in" style={{ animationDelay: "0.2s" }}>
