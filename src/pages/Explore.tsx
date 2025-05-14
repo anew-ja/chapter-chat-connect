@@ -14,7 +14,7 @@ const Explore = () => {
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-4xl font-serif font-bold mb-4">Explore Our Books</h1>
             <p className="text-xl max-w-3xl mx-auto">
-              Discover books we've enjoyed together and help us choose our next great read. test test test
+              what???
             </p>
           </div>
         </div>
