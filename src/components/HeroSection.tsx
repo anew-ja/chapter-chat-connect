@@ -14,7 +14,7 @@ const HeroSection = () => {
         </h1>
         
         <p className="text-xl md:text-2xl max-w-3xl mb-8 animate-fade-in" style={{ animationDelay: "0.2s" }}>
-          Where stories come alive through conversation, connection, and community
+          Where stories come alive through conversation, connection, and community - test text
         </p>
         
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 animate-fade-in" style={{ animationDelay: "0.4s" }}>
