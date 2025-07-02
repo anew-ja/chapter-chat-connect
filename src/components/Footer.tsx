@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="mb-8 md:mb-0">
             <Link to="/" className="flex items-center space-x-2">
               <BookOpen className="h-6 w-6" />
-              <span className="font-serif text-xl font-bold">PageTurners</span>
+              <span className="font-serif text-xl font-bold">Literary Society</span>
             </Link>
             <p className="mt-4 max-w-md text-gray-300">
               Join our community of book lovers as we explore new worlds through literature,
@@ -34,7 +34,7 @@ const Footer = () => {
               <ul className="space-y-2">
                 <li className="flex items-center space-x-2">
                   <Mail className="h-4 w-4" />
-                  <span>hello@pageturners.club</span>
+                  <span>hello@literarysociety.club</span>
                 </li>
                 <li className="flex items-center space-x-2">
                   <Calendar className="h-4 w-4" />
@@ -47,7 +47,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-6 border-t border-gray-700">
           <p className="text-sm text-gray-300 text-center">
-            © {new Date().getFullYear()} PageTurners Book Club. All rights reserved.
+            © {new Date().getFullYear()} Literary Society. All rights reserved.
           </p>
         </div>
       </div>

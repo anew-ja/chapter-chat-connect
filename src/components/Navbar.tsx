@@ -17,7 +17,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
             <BookOpen className="h-6 w-6 text-bookclub-primary" />
-            <span className="font-serif text-xl font-bold text-bookclub-primary">PageTurners</span>
+            <span className="font-serif text-xl font-bold text-bookclub-primary">Literary Society</span>
           </Link>
           
           <div className="hidden md:flex space-x-8 items-center">

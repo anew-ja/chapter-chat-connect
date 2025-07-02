@@ -30,7 +30,7 @@ const SignUp = () => {
       <main className="flex-grow">
         <div className="bg-bookclub-primary text-white py-12 px-4">
           <div className="max-w-7xl mx-auto text-center">
-            <h1 className="text-4xl font-serif font-bold mb-4">Join PageTurners</h1>
+            <h1 className="text-4xl font-serif font-bold mb-4">Join Literary Society</h1>
             <p className="text-xl max-w-3xl mx-auto">
               Become part of our vibrant community of book lovers and embark on literary adventures together.
             </p>
