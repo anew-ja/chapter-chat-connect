@@ -52,7 +52,7 @@ const SignUpForm = () => {
     <Card className="max-w-md w-full mx-auto">
       <CardHeader>
         <CardTitle className="text-center text-2xl text-bookclub-primary font-serif">
-          Join Our Book Club
+          Join Literary Society
         </CardTitle>
       </CardHeader>
       <CardContent>
